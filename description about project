@@ -1,0 +1,6 @@
+# Projectsimplecalcjyothikavula
+This is a caliculator program with four basic operations of +,-,*,/ that is addition,subtraction,multiplication and division.
+In this programme, i imported scanner class to take the input from the user.
+To run the program continuously until the user wants to exit the prigram,i used while loop.
+For each  and every operation, i used switch case statement where addition,subtraction,multiplication,division and exit for 5 different cases.
+For exit case ,i used system.exit() method with a status code that indicates successfull termination of program.
